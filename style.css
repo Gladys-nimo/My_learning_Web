@@ -1,10 +1,128 @@
 body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 10px;
+  padding: 30px;
+}
+#div1{
+  
+  
+  /* background: rgb(248, 199, 226); */
+  transition: width 5s;
+
+}
+ .main{
+  padding: 40px;
+text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: blueviolet;
+font-weight: bold;
+/* width: 700px;
+  height: 100px; */
+
+
+}
+#div1 :hover{
+  width: 300px;
 }
 
-header {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* head{
   background-color: #333;
   color: #fff;
   text-align: center;
@@ -46,6 +164,6 @@ button {
 
 button:hover {
   background-color: #555;
-}
+} */
 
 /* Add more CSS styles to customize your website */
